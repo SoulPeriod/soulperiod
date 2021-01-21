@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![playstation](https://besthqwallpapers.com/Uploads/3-1-2020/118076/thumb2-playstation-violet-logo-4k-violet-brickwall-playstation-logo-brands.jpg)
-**SoulPeriod/soulperiod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
